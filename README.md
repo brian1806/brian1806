@@ -1,4 +1,4 @@
-##  Hello World!  Eu sou o Brian!
+##  Droga é o Brian!
 
 * Estudante de Programação 
 * Graduando de Ánalise e Desenvolvimento de Sistemas 
