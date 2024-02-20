@@ -1,7 +1,8 @@
 ## É o Brian!
 
-* front-end
-* Graduando de Ánalise e Desenvolvimento de Sistemas 
+* Front-end
+* Ánalise e Desenvolvimento de Sistemas
+  
 
 
 ## Tecnologias:
