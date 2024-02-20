@@ -1,7 +1,7 @@
 ## É o Brian!
 
 * Front-end
-* Ánalise e Desenvolvimento de Sistemas
+* Análise e Desenvolvimento de Sistemas
   
 
 
