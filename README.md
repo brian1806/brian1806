@@ -1,4 +1,4 @@
-## É o Brian!
+## Brian!
 
 * Front-end
 * Análise e Desenvolvimento de Sistemas
