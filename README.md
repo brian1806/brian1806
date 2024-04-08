@@ -1,11 +1,12 @@
 ## Brian!
 
-  const programador = {
+  ```const programador = {
   nome: "Anthony Brian de Lima",
   area: "Front-end",
   curso: "Análise e Desenvolvimento de Sistemas",
   linguagens: ["JavaScript", "TypeScript", "React"],
 };
+```
 
 
 ## Tecnologias:
