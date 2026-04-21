@@ -2,11 +2,10 @@
 ## Brian!
 
 ```
-const programador = {
+const cybersecurity = {
   nome: "Anthony Brian de Lima",
-  area: "Front-end",
-  curso: "Análise e Desenvolvimento de Sistemas",
-  linguagens: ["JavaScript", "TypeScript", "React"],
+  area: "Blue-Team",
+  skills: ["SIEM", "Forense", "Logs", "Programação", "Cloud", "Activity Directory"],
 };
 ```
 
