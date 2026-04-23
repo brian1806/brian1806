@@ -23,7 +23,7 @@
 > *  Practical SOC Analyst Associate (PSAA) - TCM Security
 > * Certified Phishing Prevention Specialist - Hack & Fix
 > * Certified Red Team Analyst - CyberWarFare Labs
-> * Cyber Defense - Splunk (Loagin... 30/06/2026)
+> * Cyber Defense - Splunk (Loading... 30/06/2026)
 > * Security+ plus - Comptia (Loading... 30/08/2026)
 
 ```bash
