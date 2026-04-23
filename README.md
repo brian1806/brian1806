@@ -11,7 +11,7 @@
 
 ## 💻 > logs/experiencia.log
 
-> **Analista de Cibersegurança** focado em Blue Team, com experiencia em investigação de SIEM e XDR. Habilitades em criação de scripts PowerShell, como por exemplo scripts de auditoria e coleta de logs EVTX e vivência prática em Threat Hunting, Análise de arquivos suspeitos e Phishing. Experiência em operações de MDR e resposta a incidentes. Conhecimento em Framework NIST para resposta de incidentes, MITRE ATTACK e Cyberkill Chain.
+> **Analista de Cibersegurança** focado em Blue Team, com experiencia em investigação em SIEM e XDR. Habilitades em criação de scripts PowerShell, como por exemplo scripts de auditoria e coleta de logs EVTX e vivência prática em Threat Hunting, Análise de arquivos suspeitos e Phishing. Experiência em operações de MDR e resposta a incidentes. Conhecimento em Framework NIST para resposta de incidentes, MITRE ATTACK e Cyberkill Chain.
 
 ## 💻 > logs/expertise.log
 > * **Análise e investigação**: Experiencia em análises aprofundadas de detecções, descoberta de artefatos maliciosos e IoEs, a análise forense em endpoints para determinar o vetor de ataque e impacto nos negocios.
