@@ -1,24 +1,18 @@
+# 🟢 SYSTEM STATUS: OPERATIONAL
 
-## Brian!
+## > Whoami
+**Anthony Brian de Lima**
+**Role:** Cybersecurity Analyst | Blue Team Operative 🛡️
+**Focus:** SOC, Log Analysis, Deception Technologies & Cyber Law.
 
-```
-const cybersecurity = {
-  nome: "Anthony Brian de Lima",
-  area: "Blue-Team",
-  skills: ["SIEM", "Forense", "Logs", "Programação", "Cloud", "Activity Directory"],
-};
-```
-
-
-## Tecnologias:
-
-
-
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
+```json
+{
+  "profile": {
+    "alias": "Brian",
+    "mission": "Detectar o indetectável e fortalecer perímetros.",
+    "current_study": ["MITRE ATT&CK", "Splunk Enterprise Security", "Frensic"],
+    "systems": ["Linux", "Windows Server", "Active Directory"]
+  }
+}
 
 
