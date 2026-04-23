@@ -1,6 +1,7 @@
+```bash
 # Bash:~$ sudo whoami
-# > Anthony B. de Lima
-
+# Basj:~$ Anthony B. de Lima
+```
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F5NmlmZnA5YjF4YThoNzRxMGF2ZWl3NjAydGFseDdtbXBwZjRndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSRHqMqa51S/giphy.gif" alt="Hacker Terminal GIF" width="100%">
 </p>
