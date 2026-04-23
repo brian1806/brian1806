@@ -18,6 +18,14 @@
 > * **Otimização: Experiência** no desenvolvimento de script para automatizar triagem de ameaças, coletas de evidências para análise (Exemplo: EVTX), integração de APIs como o VirusTotal, AbuseIPDB e MISP.
 > * **Comunicação Técnica**: Capacidade de elaborar e apresentar relatórios técnicos e executivos, com uma comunicação de forma clara nos resultados das investigações e proximos passos.
 
+## 💻 > logs/certificações.log
+> * Certified Blue Teamer - The SecOps Group.
+> *  Practical SOC Analyst Associate (PSAA) - TCM Security
+> * Certified Phishing Prevention Specialist - Hack & Fix
+> * Certified Red Team Analyst - CyberWarFare Labs
+> * Cyber Defense - Splunk (Loagin... 30/06/2026)
+> * Security+ plus - Comptia (Loading... 30/08/2026)
+
 ```bash
 # Executando...
 [██████████████████████] 100% | Concluído.
