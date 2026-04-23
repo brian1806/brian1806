@@ -27,5 +27,5 @@
 > * Security+ plus - Comptia (Loading... 30/08/2026)
 
 ```bash
-# Executando...
+# Curriculo executado.
 [██████████████████████] 100% | Concluído.
